@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Oblivion VPN</string>
+    <string name="endpoint_instruction">Please enter or paste your endpoint address</string>
+    <string name="endpoint_hint">https://example.com/config.json</string>
+    <string name="connect">Connect</string>
+    <string name="please_enter_endpoint">Please enter an endpoint</string>
+    <string name="connecting_to">Connecting to</string>
+</resources>
