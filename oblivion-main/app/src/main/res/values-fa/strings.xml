@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">اوبلیویون VPN</string>
+    <string name="endpoint_instruction">لطفاً آدرس endpoint خود را وارد کنید</string>
+    <string name="endpoint_hint">https://example.com/config.json</string>
+    <string name="connect">اتصال</string>
+    <string name="please_enter_endpoint">لطفاً آدرس را وارد کنید</string>
+    <string name="connecting_to">در حال اتصال به</string>
+</resources>
