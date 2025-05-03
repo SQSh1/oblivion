@@ -1,22 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    android:orientation="vertical" 
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:gravity="center"
-    android:padding="24dp"
     android:background="#FFFFFF">
 
+    <ImageView
+        android:id="@+id/logo"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="80dp"
+        android:src="@mipmap/ic_launcher" />
+
     <TextView
-        android:id="@+id/instruction"
+        android:id="@+id/welcomeText"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="برای دسترسی آزاد به اینترنت، لطفاً آدرس endpoint خود را وارد یا انتخاب نمایید."
-        android:textSize="16sp"
-        android:textAlignment="center"
+        android:text="Oblivion VPN"
+        android:textSize="24sp"
+        android:textStyle="bold"
         android:textColor="#000000"
-        android:padding="16dp" />
+        android:layout_below="@id/logo"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="20dp" />
 
-    <!-- اینجا می‌تونی بعداً فرم ورود endpoint بذاری -->
+    <TextView
+        android:id="@+id/creditText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="With the efforts of #Yousef_Ghobadi and dozens of activists..."
+        android:textSize="14sp"
+        android:textColor="#888888"
+        android:layout_below="@id/welcomeText"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="20dp"
+        android:padding="16dp"
+        android:textAlignment="center" />
 
-</LinearLayout>
+</RelativeLayout>
