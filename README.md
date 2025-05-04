@@ -1,5 +1,5 @@
 > 📦 **Notice: This repository includes an advanced unofficial fork called [Oblivion-SQEdition](#oblivion-sqedition---enhanced-sq-version), designed by SQ with extended localization, usability improvements, and support for restricted environments.**  
-> 🔗 [Jump to SQ Edition section](SQ-Edition.md)
+> 🔗 [Jump to SQ Edition section](SQ-Edition.md) With permission and respect 🙏
 
 
 # Oblivion - Unofficial Warp Client for Android
