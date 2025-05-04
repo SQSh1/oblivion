@@ -1,3 +1,6 @@
+> 📦 **Notice: This repository includes an advanced unofficial fork called [Oblivion-SQEdition](#oblivion-sqedition---enhanced-sq-version), designed by SQ with extended localization, usability improvements, and support for restricted environments.**  
+> 👉 [Jump to SQ Edition section](#oblivion-sqedition---enhanced-sq-version)
+
 # Oblivion - Unofficial Warp Client for Android
 
 "Internet, for all or none!"
@@ -73,36 +76,3 @@ The CC BY-NC-SA 4.0 License is a free, copyleft license suitable for non-commerc
 - **ShareAlike (SA)**: If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
 
 This summary is only a brief overview. For the full legal text, please visit the provided link.
-
-
----
-
-## 🛠 SQ Edition (Unofficial Fork by SQ)
-
-> **Note:** This is an unofficial fork of Oblivion maintained by the developer SQ, intended to enhance accessibility and provide early UI experiments for users in restricted regions.
-
-This fork introduces several experimental features and localization changes designed to optimize the experience for Persian-speaking users and developers in censored environments:
-
-### 🔹 What's New in SQ Edition
-
-- ✨ Custom welcome screen with redesigned UI (`WelcomeActivity`)
-- 🌐 Dynamic endpoint input with auto-suggestion support (`EndpointActivity`)
-- 🈳 Built-in Persian (Farsi) language support
-- 🧊 Modern adaptive launcher icon
-- 🧩 Future-ready structure for **LSPosed** and **Magisk** integrations
-
-### 📥 Download
-
-The test APK build is not yet released. A pre-release version will be published **soon** under [Releases](https://github.com/SQSh1/oblivion/releases).
-
-Stay tuned for updates — SQ Edition aims to empower freedom of access with style and security.
-
----
-
-📧 Contact the developer: [developer.sqsh@gmail.com](mailto:developer.sqsh@gmail.com)
-
----
-### 📘 🇮🇷Persian Documentation  
-Looking for Persian translation? Read the [README_FA.md](https://github.com/SQSh1/oblivion/blob/main/README_FA.md)
-
-
