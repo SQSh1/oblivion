@@ -98,6 +98,10 @@ The test APK build is not yet released. A pre-release version will be published 
 Stay tuned for updates — SQ Edition aims to empower freedom of access with style and security.
 
 ---
+[🇬🇧 English README](README.md)  
+📧 تماس با توسعه‌دهنده: developer.sqsh@gmail.com
+
+---
 ### 📘 Persian Documentation  
 Looking for Persian translation? Read the [README_FA.md](https://github.com/SQSh1/oblivion/blob/main/README_FA.md)
 
