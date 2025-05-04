@@ -38,7 +38,7 @@ This advanced fork, maintained by **SQ**, introduces several features tailored f
 - 🈳 **Persian Language Support** – Built-in فارسی translation with RTL compatibility.
 - 🧊 **Adaptive Icon** – Modern launcher icon for better launcher aesthetics.
 - 🧩 **Future Integration Hooks** – Early support for LSPosed and Magisk modules.
-- 🇮🇷 **Censorship-Resilient** – Built for environments like Iran with smart routing tweaks.
+- [🇮🇷] **Censorship-Resilient** – Built for environments like Iran with smart routing tweaks.
 
 ### 📥 SQ Edition Download
 
