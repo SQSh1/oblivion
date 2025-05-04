@@ -7,6 +7,7 @@ Oblivion provides secure, optimized internet access through a user-friendly Andr
 It’s leveraging `bepass-sdk` and a custom Go implementation of WireGuard; it’s designed for fast and private online experiences.
 
 ![Oblivion App Screenshot](https://github.com/SQSh1/oblivion/assets/banner_sqedition.jpg)
+📸 **Screenshots will be added soon as the interface stabilizes.**
 
 ---
 
