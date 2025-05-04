@@ -46,7 +46,7 @@ The SQ Edition is currently under active development. A preview build will be av
 
 ### 📘 Documentation in Persian
 
-For full Persian documentation, see [`[Persian](README_FA.md)
+For full Persian documentation, see [Persian](README_FA.md) 🇮🇷
 `](https://github.com/SQSh1/oblivion/blob/main/README_FA.md).
 
 ### 📧 Contact Developer
