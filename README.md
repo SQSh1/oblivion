@@ -99,7 +99,7 @@ Stay tuned for updates — SQ Edition aims to empower freedom of access with sty
 
 ---
 
-📧 تماس با توسعه‌دهنده: [developer.sqsh@gmail.com](mailto:developer.sqsh@gmail.com)
+📧 Contact the developer: [developer.sqsh@gmail.com](mailto:developer.sqsh@gmail.com)
 
 ---
 ### 📘 🇮🇷Persian Documentation  
