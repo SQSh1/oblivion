@@ -102,7 +102,7 @@ Stay tuned for updates — SQ Edition aims to empower freedom of access with sty
 📧 تماس با توسعه‌دهنده: developer.sqsh@gmail.com
 
 ---
-### 📘 Persian Documentation  
+### 📘 🇮🇷Persian Documentation  
 Looking for Persian translation? Read the [README_FA.md](https://github.com/SQSh1/oblivion/blob/main/README_FA.md)
 
 
