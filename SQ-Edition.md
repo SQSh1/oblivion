@@ -44,7 +44,7 @@ This advanced fork, maintained by **SQ**, introduces several features tailored f
 
 The SQ Edition is currently under active development. A preview build will be available soon via [GitHub Releases](https://github.com/SQSh1/oblivion/releases). Stay tuned!
 
-### 📘 Documentation in Persian [IR]
+### 📘 Documentation in Persian 
 
 For full Persian documentation, see [`[IR]`](https://github.com/SQSh1/oblivion/blob/main/README_FA.md).
 
