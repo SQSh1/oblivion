@@ -1,8 +1,3 @@
-> 📦 **Notice**  
-> This repository includes an advanced unofficial fork named [**Oblivion-SQEdition**](SQ-Edition.md), developed by **SQ**, featuring extended localization, usability enhancements, and improved compatibility for restricted environments.  
-> With deep appreciation and full respect for the original maintainers — especially **Yousef Ghobadi** and collaborators — whose efforts and dedication made this project possible. 🙏  
-
-
 # Oblivion - Unofficial Warp Client for Android
 
 "Internet, for all or none!"
@@ -78,3 +73,8 @@ The CC BY-NC-SA 4.0 License is a free, copyleft license suitable for non-commerc
 - **ShareAlike (SA)**: If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
 
 This summary is only a brief overview. For the full legal text, please visit the provided link.
+-----------------
+> 📦 **Notice**  
+> This repository includes an advanced unofficial fork named [**Oblivion-SQEdition**](SQ-Edition.md), developed by **SQ**, featuring extended localization, usability enhancements, and improved compatibility for restricted environments.  
+> With deep appreciation and full respect for the original maintainers — especially **Yousef Ghobadi** and collaborators — whose efforts and dedication made this project possible. 🙏  
+
