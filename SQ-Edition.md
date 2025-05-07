@@ -28,7 +28,7 @@ Simply launch the app and hit the switch button.
 
 ---
 
-## 🛠 Oblivion-SQEdition – Enhanced SQ Version
+## • Oblivion-SQEdition – Enhanced SQ Version
 
 This advanced fork, maintained by **SQ**, introduces several features tailored for Persian-speaking users and those in restricted environments.
 
@@ -36,7 +36,6 @@ This advanced fork, maintained by **SQ**, introduces several features tailored f
 
 -  **Custom Welcome Screen** – Redesigned onboarding experience (`WelcomeActivity`).
 -  **Dynamic Endpoint Input** – Manually configure WARP endpoint addresses.
--  **Persian Language Support** – Built-in فارسی translation with RTL compatibility.
 -  **Adaptive Icon** – Modern launcher icon for better launcher aesthetics.
 -  **Future Integration Hooks** – Early support for LSPosed and Magisk modules.
 - [🇮🇷] **Censorship-Resilient** – Built for environments like Iran with smart routing tweaks.
@@ -49,7 +48,7 @@ The SQ Edition is currently under active development. A preview build will be av
 
 
 
-### 📧 Contact Developer
+### • Contact Developer
 
 Questions or suggestions? Contact SQ at [developer.sqsh@gmail.com](mailto:developer.sqsh@gmail.com)
 
