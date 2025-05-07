@@ -13,14 +13,14 @@ It’s leveraging `bepass-sdk` and a custom Go implementation of WireGuard; it�
 
 ## Features
 
-- ⚙️ Based on a native WireGuard implementation in Go.  
-- ⚡ Ultra-lightweight, paired with `bepass-sdk` for minimal latency.  
-- 🖼️ Clean and minimal Android-native interface.  
-- 🔒 Focused on privacy and censorship resistance.
+-  Based on a native WireGuard implementation in Go.  
+-  Ultra-lightweight, paired with `bepass-sdk` for minimal latency.  
+-  Clean and minimal Android-native interface.  
+-  Focused on privacy and censorship resistance.
 
 ---
 
-## 📥 Download
+##  Download
 
 Grab the latest release from our [Releases](https://github.com/SQSh1/oblivion/releases) page or [Google Play](https://play.google.com/store/apps/details?id=com.oblivion.android) and install it.
 
@@ -34,18 +34,18 @@ This advanced fork, maintained by **SQ**, introduces several features tailored f
 
 ### 🔹 Highlights of the SQ Edition:
 
-- ✨ **Custom Welcome Screen** – Redesigned onboarding experience (`WelcomeActivity`).
-- 🌐 **Dynamic Endpoint Input** – Manually configure WARP endpoint addresses.
-- 🈳 **Persian Language Support** – Built-in فارسی translation with RTL compatibility.
-- 🧊 **Adaptive Icon** – Modern launcher icon for better launcher aesthetics.
-- 🧩 **Future Integration Hooks** – Early support for LSPosed and Magisk modules.
+-  **Custom Welcome Screen** – Redesigned onboarding experience (`WelcomeActivity`).
+-  **Dynamic Endpoint Input** – Manually configure WARP endpoint addresses.
+-  **Persian Language Support** – Built-in فارسی translation with RTL compatibility.
+-  **Adaptive Icon** – Modern launcher icon for better launcher aesthetics.
+-  **Future Integration Hooks** – Early support for LSPosed and Magisk modules.
 - [🇮🇷] **Censorship-Resilient** – Built for environments like Iran with smart routing tweaks.
 
-### 📥 SQ Edition Download
+###  SQ Edition Download
 
 The SQ Edition is currently under active development. A preview build will be available soon via [GitHub Releases](https://github.com/SQSh1/oblivion/releases). Stay tuned!
 
-### 📘 Documentation is also available in [Persian](https://github.com/SQSh1/oblivion/blob/main/README_FA.md) 🇮🇷
+###  Documentation is also available in [Persian](https://github.com/SQSh1/oblivion/blob/main/README_FA.md) 🇮🇷
 
 
 
@@ -55,4 +55,4 @@ Questions or suggestions? Contact SQ at [developer.sqsh@gmail.com](mailto:develo
 
 ---
 
-> Crafted with ❤️ by [SQ](https://github.com/SQSh1) & QT
+> Crafted with ❤️ by [SQ](https://github.com/SQSh1)
