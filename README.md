@@ -16,10 +16,11 @@ It's leveraging `bepass-sdk` and a custom Go implementation of WireGuard, it's d
 
 ## Quick Start
 
-1. **Download**: Grab the APK from our [Releases](https://github.com/bepass-org/oblivion/releases) 
+1. **Download**: Grab the APK from our [Releases](https://github.com/bepass-org/oblivion/releases)
+2. **Download**: Google play 
 [![Get it on Google Play](assets/store/google-play-badge.png)](https://play.google.com/store/apps/details?id=org.bepass.oblivion)
 
-2. **Connect**: Launch Oblivion and hit the switch button.
+3. **Connect**: Launch Oblivion and hit the switch button.
 
 ## Building the Project
 
