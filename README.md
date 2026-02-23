@@ -20,6 +20,7 @@ It's leveraging `bepass-sdk` and a custom Go implementation of WireGuard, it's d
    <a href="https://play.google.com/store/apps/details?id=org.bepass.oblivion">
    <img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" width="165" height="64" />
    </a>
+[![Get it on Google Play](assets/store/google-play-badge.png)](https://play.google.com/store/apps/details?id=org.bepass.oblivion)
 
 2. **Connect**: Launch Oblivion and hit the switch button.
 
