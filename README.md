@@ -26,6 +26,7 @@ It's leveraging `bepass-sdk` and a custom Go implementation of WireGuard, it's d
        style="border:0; vertical-align:middle;">
 </a>
 </div>
+
 3. **Connect**: Launch Oblivion and hit the switch button.
 
 ## Building the Project
