@@ -26,7 +26,7 @@ Download: Google play store and install it
        style="border:0; vertical-align:middle;">
 </a>
 
-3. **Connect**: Launch Oblivion and hit the switch button.
+Connect: Launch Oblivion and hit the switch button.
 
 ## Building the Project
 
